@@ -8,7 +8,7 @@ public class PriyaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PriyaApplication.class, args);
-	    System.out.println("Hello World");
+	    System.out.println("Appdevelopment");
 	}
 
 }
